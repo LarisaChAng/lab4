@@ -11,7 +11,7 @@ namespace LoopDo
         static void Main(string[] args)
         {
             double Sum = 1000;
-            double Sum2 = Sum * 2;
+            double Sum2 = Sum * 3;
             double p = 4;
             int year = 0;
             do
